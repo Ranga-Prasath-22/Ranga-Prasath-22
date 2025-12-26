@@ -46,18 +46,11 @@ seeking = "GenAI Internships"
 
 ### 📌 Featured Work
 
-<div align="center">
-
-[![micrograd](https://github-readme-stats.vercel.app/api/pin/?username=Ranga-Prasath-22&repo=micrograd-from-scratch&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Ranga-Prasath-22/micrograd-from-scratch)
-[![VENA](https://github-readme-stats.vercel.app/api/pin/?username=Ranga-Prasath-22&repo=VENA&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Ranga-Prasath-22/VENA)
-
-</div>
-
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[micrograd-from-scratch](https://github.com/Ranga-Prasath-22/micrograd-from-scratch)** | Autograd engine & neural networks from zero | `Python` `Jupyter` |
-| **[VENA](https://github.com/Ranga-Prasath-22/VENA)** | Vision Enabled Navigation Agent | `Python` `AI Agents` |
-| **[ted-talk-recommender](https://github.com/Ranga-Prasath-22/ted-talk-recommender)** | Content-based recommendation system | `Python` `GenAI` |
+| 🧠 **[micrograd-from-scratch](https://github.com/Ranga-Prasath-22/micrograd-from-scratch)** | Autograd engine & neural networks from zero | `Python` `Jupyter` |
+| 🧭 **[VENA](https://github.com/Ranga-Prasath-22/VENA)** | Vision Enabled Navigation Agent | `Python` `AI Agents` |
+| 🎤 **[ted-talk-recommender](https://github.com/Ranga-Prasath-22/ted-talk-recommender)** | Content-based recommendation system | `Python` `GenAI` |
 
 ---
 
@@ -65,8 +58,12 @@ seeking = "GenAI Internships"
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ranga-Prasath-22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&hide_title=true"/>
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranga-Prasath-22&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6D00"/>
+<a href="https://github.com/Ranga-Prasath-22">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ranga-Prasath-22&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
+</a>
+<a href="https://github.com/Ranga-Prasath-22">
+  <img height="180" src="https://streak-stats.demolab.com?user=Ranga-Prasath-22&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6D00&currStreakLabel=58A6FF"/>
+</a>
 
 </div>
 
