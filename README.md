@@ -6,9 +6,9 @@
 
 **`GenAI Engineer in the Making`** · Chennai, India 🇮🇳
 
-[![LinkedIn](https://img.shields.io/badge/-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranga-prasath-s-r-155242314)
+[![Email](https://img.shields.io/badge/-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rangaprasath22@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ranga-Prasath-22)
 
 </div>
 
@@ -54,21 +54,6 @@ seeking = "GenAI Internships"
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/Ranga-Prasath-22">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ranga-Prasath-22&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/Ranga-Prasath-22">
-  <img height="180" src="https://streak-stats.demolab.com?user=Ranga-Prasath-22&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6D00&currStreakLabel=58A6FF"/>
-</a>
-
-</div>
-
----
-
 ### 💼 Open to Opportunities
 
 I'm actively seeking **internships in Generative AI, LLM development, and AI Agent engineering**.
@@ -82,7 +67,7 @@ What I bring:
 
 **Let's build the future of AI together.**
 
-[![Hire Me](https://img.shields.io/badge/📩_Let's_Talk-58A6FF?style=for-the-badge)](mailto:your.email@example.com)
+[![Hire Me](https://img.shields.io/badge/📩_Let's_Talk-58A6FF?style=for-the-badge)](mailto:rangaprasath22@gmail.com)
 
 </div>
 
