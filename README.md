@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ranga Prasath
+# Ranga Prasath S R
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=550&lines=Building+AI+from+First+Principles;GenAI+Engineer+in+the+Making;Crafting+Intelligent+AI+Agents;LLMs+%7C+RAG+%7C+LangChain+%7C+Transformers;From+API+Wrapper+→+Sovereign+Engineer)](https://git.io/typing-svg)
 
