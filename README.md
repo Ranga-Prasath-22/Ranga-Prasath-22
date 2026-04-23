@@ -7,7 +7,7 @@ Chennai, India
 
 [LinkedIn](https://www.linkedin.com/in/ranga-prasath-s-r-155242314) |
 [Email](mailto:rangaprasath22@gmail.com) |
-[GitHub](https://github.com/Ranga-Prasath-22)
+[Hugging Face](https://huggingface.co/RangaPrasath)
 
 </div>
 
