@@ -2,81 +2,58 @@
 
 # Ranga Prasath S R
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=550&lines=Building+AI+from+First+Principles;GenAI+Engineer+in+the+Making;Crafting+Intelligent+AI+Agents;LLMs+%7C+RAG+%7C+LangChain+%7C+Transformers;From+API+Wrapper+→+Sovereign+Engineer)](https://git.io/typing-svg)
+**AI / GenAI Engineer in the Making**  
+Chennai, India
 
-**`GenAI Engineer in the Making`** · Chennai, India 🇮🇳
-
-[![LinkedIn](https://img.shields.io/badge/-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranga-prasath-s-r-155242314)
-[![Email](https://img.shields.io/badge/-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rangaprasath22@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ranga-Prasath-22)
-
-</div>
-
----
-
-### 🎯 What I Do
-
-I build intelligent AI systems from the ground up. Currently implementing neural networks from scratch to deeply understand the architectures powering modern GenAI—because **real engineers know what's under the hood**.
-
-```python
-focus = ["LLMs", "RAG Systems", "AI Agents", "Prompt Engineering", "LangChain"]
-current_build = "micrograd-from-scratch"  # Autograd engine, pure Python
-next_up = "Autonomous AI Agents with LangGraph"
-seeking = "GenAI Internships"
-```
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=graphql&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+[LinkedIn](https://www.linkedin.com/in/ranga-prasath-s-r-155242314) â€¢
+[Email](mailto:rangaprasath22@gmail.com) â€¢
+[GitHub](https://github.com/Ranga-Prasath-22)
 
 </div>
 
----
+I build AI systems by understanding the mechanics underneath them, not just calling APIs.
+Right now I am focused on neural networks, LLM applications, RAG systems, and agent workflows.
 
-### 📌 Featured Work
+## Flagship Project
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🧠 **[micrograd-from-scratch](https://github.com/Ranga-Prasath-22/micrograd-from-scratch)** | Autograd engine & neural networks from zero | `Python` `Jupyter` |
-| 🧭 **[VENA](https://github.com/Ranga-Prasath-22/VENA)** | Vision Enabled Navigation Agent | `Python` `AI Agents` |
-| 🎤 **[ted-talk-recommender](https://github.com/Ranga-Prasath-22/ted-talk-recommender)** | Content-based recommendation system | `Python` `GenAI` |
+### [micrograd-from-scratch](https://github.com/Ranga-Prasath-22/micrograd-from-scratch)
 
----
+A pure Python deep learning build that reconstructs:
+- scalar reverse-mode autograd
+- `Neuron`, `Layer`, and `MLP` abstractions
+- `SGD`, `Momentum`, and `Adam`
+- learning-rate schedulers, mini-batching, and training utilities
+- benchmark artifacts comparing optimizer behavior on the same setup
 
-### 💼 Open to Opportunities
+Live project page:
+[Hugging Face Space](https://huggingface.co/spaces/RangaPrasath/micrograd-from-scratch)
 
-I'm actively seeking **internships in Generative AI, LLM development, and AI Agent engineering**.
+Why this project matters:
+- shows implementation-level understanding of backpropagation and optimization
+- demonstrates that I can turn a learning project into a presentable engineering artifact
+- gives me a concrete way to discuss tradeoffs, limitations, and benchmarking
 
-What I bring:
-- Deep understanding of neural network internals (not just APIs)
-- Hands-on experience with LangChain, RAG, and AI Agents
-- Builder mindset—I ship projects, not just read tutorials
+## Selected Work
 
-<div align="center">
+- [micrograd-from-scratch](https://github.com/Ranga-Prasath-22/micrograd-from-scratch): autograd engine, neural network stack, optimizers, schedulers, and benchmark artifacts
+- [VENA](https://github.com/Ranga-Prasath-22/VENA): vision-enabled navigation agent
+- [ted-talk-recommender](https://github.com/Ranga-Prasath-22/ted-talk-recommender): content-based recommendation system
 
-**Let's build the future of AI together.**
+## Current Focus
 
-[![Hire Me](https://img.shields.io/badge/📩_Let's_Talk-58A6FF?style=for-the-badge)](mailto:rangaprasath22@gmail.com)
+- LLM applications
+- RAG systems
+- AI agents
+- deep learning fundamentals
+- building stronger proof-of-work projects
 
-</div>
+## Open To
 
----
+I am actively looking for internships and early-career opportunities in:
+- Generative AI
+- LLM engineering
+- AI agent engineering
+- machine learning engineering
 
-<div align="center">
-
-> *"Fate rarely calls upon us at a moment of our choosing."* — **Optimus Prime** 🤖
-
-![](https://komarev.com/ghpvc/?username=Ranga-Prasath-22&color=58A6FF&style=flat-square&label=Profile+Views)
-
-</div>
+If you are hiring for internships, research work, or project-based collaboration, reach out:
+[rangaprasath22@gmail.com](mailto:rangaprasath22@gmail.com)
