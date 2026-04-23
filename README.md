@@ -5,8 +5,8 @@
 **AI / GenAI Engineer in the Making**  
 Chennai, India
 
-[LinkedIn](https://www.linkedin.com/in/ranga-prasath-s-r-155242314) â€¢
-[Email](mailto:rangaprasath22@gmail.com) â€¢
+[LinkedIn](https://www.linkedin.com/in/ranga-prasath-s-r-155242314) |
+[Email](mailto:rangaprasath22@gmail.com) |
 [GitHub](https://github.com/Ranga-Prasath-22)
 
 </div>
